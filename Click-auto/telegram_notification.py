@@ -6,8 +6,8 @@ def send_telegram_message(bot_token, chat_id, message):
     bot.send_message(chat_id=chat_id, text=message)
 
 # Thông tin của bot và chat_id
-bot_token = "YOUR_BOT_TOKEN"
-chat_id = "YOUR_CHAT_ID"
+bot_token = "7016202931:AAG-BRNvn3TbWW6DKz17R7xdq_pf0pd_cNg"
+chat_id = "6604544426"
 
 # Tin nhắn bạn muốn gửi
 message = "Hello from Python!"
